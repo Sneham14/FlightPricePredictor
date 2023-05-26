@@ -1,0 +1,50 @@
+* {font-size: 40px;}
+        body{background-color: lightblue;}
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+    font-family: 'Courier New';
+    color: aqua;
+}
+
+h5{background-color: black; color: white; width:40%;}
+
+.navbar {
+    background-color: #190303;
+    color: blue;
+}
+
+a {
+    color: #f1f9f9;
+}
+form {
+    background-color: #f0f0f0;
+    color: aquamarine;
+    max-width: 500px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+a:hover {
+    color: #f0f0f0;
+}
+
+/* Style for navbar */
+.navbar {
+    background-color: #333;
+    border: none;
+}
+
+/* Style for navbar link */
+.navbar-brand,
+.navbar-brand:hover {
+    color: #fff;
+    font-size: 1.5em;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+}
+
+/* Style for active navbar link */
+.navbar-brand.active,
+.navbar-brand.active:hover {
+    color: #ffcc00;
+}
+
