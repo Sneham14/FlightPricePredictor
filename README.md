@@ -4,19 +4,13 @@ The Flight Price Predictor is a web application designed to provide users with e
 
 Getting Started To access the application, follow these steps:
 
-Visit the Flight Price Predictor web app.
-
-On the homepage, you will find input fields to enter the departure date and time, source and destination airports, number of stops, and preferred airline for your travel.
-
-Use the calendar-control/date-picker to select the desired departure date and time.
-
-Choose the source and destination airports from the dropdown options, which display a list of available locations.
-
-Select the number of stops for your flight from the dropdown, ranging from non-stop to a maximum of four stops.
-
-Choose the preferred airline for your travel from the dropdown, which provides a list of available airlines for the selected route.
-
-Once you have entered all the required information, click on the "Submit" button to proceed.
+1. Visit the Flight Price Predictor web app.
+2. On the homepage, you will find input fields to enter the departure date and time, source and destination airports, number of stops, and preferred airline for your travel.
+3. Use the calendar-control/date-picker to select the desired departure date and time.
+4. Choose the source and destination airports from the dropdown options, which display a list of available locations.
+5. Select the number of stops for your flight from the dropdown, ranging from non-stop to a maximum of four stops.
+6. Choose the preferred airline for your travel from the dropdown, which provides a list of available airlines for the selected route.
+7. Once you have entered all the required information, click on the "Submit" button to proceed.
 
 1. Main page of FlightPricePredictor Application
 ![Main Page](Screenshots/Mainpage.png)
