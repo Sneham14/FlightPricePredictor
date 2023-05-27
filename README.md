@@ -1,6 +1,6 @@
 # FlightPricePredictor
 
-The Flight Price Predictor is a web application designed to provide users with estimated flight prices based on various parameters. By utilizing machine learning algorithms, the app predicts flight prices and assists users in making informed decisions about their travel plans.
+The Flight Price Predictor is a web application designed to provide users with estimated flight prices based on various parameters. By using Random Forest regressor model, the app predicts flight prices and assists users in making informed decisions about their travel plans.
 
 Getting Started To access the application, follow these steps:
 
